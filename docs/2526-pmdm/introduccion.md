@@ -15,6 +15,7 @@ sidebar_position: 1
 Este módulo está diseñado para proporcionar las habilidades necesarias para desarrollar aplicaciones móviles nativas y multiplataforma, integrando elementos multimedia y aprovechando las capacidades de hardware de los dispositivos modernos.
 
 ## 🎯 Objetivos del Curso
+sdgashgasjgasg
 
 Durante este año escolar, nos enfocaremos en:
 
